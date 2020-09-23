@@ -1,16 +1,70 @@
-### Hi there 👋
+# <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Ujjawal Maurya<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
 
-<!--
-**Ujjawalmaurya/ujjawalmaurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a 3rd yr undergraduate, who is passionate about technologies💻 and obsessed with the idea of improving himself and wants to grow and excel in it🚀.
+<br/>
+Linux Enthusiast | Android Developer(in progress) 
+<br/>
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+  
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently learning Dart Lang 
+- 💬 Ask me about anything, I am happy to help
+<!-- 👨🏽‍💼 Active participant in Competitive Programming competitions-->
+- 🤔 I’m looking for help with Data Structures and Algorithms 😭
+- ⚙️ I use daily: `.dart`, `.java`, `.js`, `.fig`, `.xd`
+<!--  👨 Open Source Contributor-->
+- 📫 How to reach me: ujjawalmauryaum@gmail.com
+
+<a href="https://twitter.com/ujjawalmaurya2">
+  <img align="left" alt="Ujjawal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ujjawal-maurya-6b70b8177/">
+  <img align="left" alt="Ujjawal's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/theaizwal">
+  <img align="left" alt="Ujjawal's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://instagram.com/1amujjawal">
+  <img align="left" alt="Ujjawal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<br><br>
+
+**<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> Languages and Tools:**  
+
+<!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> -->
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+
+**<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> Github Brief:**
+<a href="https://github.com/Ujjawalmaurya">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjawalmaurya&theme=dark&hide_langs_below=1" />
+</a>
+![Ujjawal's github stats](https://github-readme-stats.vercel.app/api?username=Ujjawalmaurya&show_icons=true&hide_border=true)
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
