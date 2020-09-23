@@ -16,7 +16,7 @@ Linux Enthusiast | Android Developer(in progress)
 - 👨🏽‍💻 I’m currently learning Dart Lang 
 - 💬 Ask me about anything, I am happy to help
 <!-- 👨🏽‍💼 Active participant in Competitive Programming competitions-->
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭
+- 🤔 I’m looking for help with Data Structures and Algorithms
 - ⚙️ I use daily: `.dart`, `.java`, `.js`, `.fig`, `.xd`
 <!--  👨 Open Source Contributor-->
 - 📫 How to reach me: ujjawalmauryaum@gmail.com
