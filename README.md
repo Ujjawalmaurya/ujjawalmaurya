@@ -59,7 +59,7 @@ Linux Enthusiast | Android Developer(in progress)
 **<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> Github Brief:**
 <br>
 <a href="https://github.com/Ujjawalmaurya">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjawalmaurya&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjawalmaurya&theme=light&hide_langs_below=1" />
 </a>
 ![Ujjawal's github stats](https://github-readme-stats.vercel.app/api?username=Ujjawalmaurya&show_icons=true&hide_border=true)
 
