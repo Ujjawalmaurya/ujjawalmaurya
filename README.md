@@ -6,7 +6,7 @@
 
 I am a 3rd yr undergraduate, who is passionate about technologies💻 and obsessed with the idea of improving himself and wants to grow and excel in it🚀.
 <br/>
-Linux Enthusiast | Android Developer(in progress) 
+Linux & ML Enthusiast | Android Developer(in progress) 
 <br/>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
