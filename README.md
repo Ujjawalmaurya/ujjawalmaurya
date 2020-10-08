@@ -4,19 +4,19 @@
 
 <br />
 
-I am a 3rd yr undergraduate, who is passionate about technologies💻 and obsessed with the idea of improving himself and wants to grow and excel in it🚀.
+I am a 3rd yr underGraduate, who is passionate about technologies💻 and obsessed with the idea of improving himself and wants to grow and excel in it🚀.
 <br/>
-Linux & ML Enthusiast | Android Developer(in progress) 
+Linux & ML Enthusiast | Android Developer(in progress) | JavaScript is ♥️😍 | KDE is ♥️♥️
 <br/>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently learning Dart Lang 
+- 👨🏽‍💻 I’m currently learning TenserFlow
 - 💬 Ask me about anything, I am happy to help
 <!-- 👨🏽‍💼 Active participant in Competitive Programming competitions-->
-- 🤔 I’m looking for help with Data Structures and Algorithms
+- 🤔 I’m looking for help with Data Structures and Algorithms and State Management
 - ⚙️ I use daily: `.dart`, `.java`, `.js`, `.fig`, `.xd`
 <!--  👨 Open Source Contributor-->
 - 📫 How to reach me: ujjawalmauryaum@gmail.com
