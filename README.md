@@ -4,7 +4,7 @@
 
 I am a regular CSE Student, who is passionate about technologies💻. <!-- and obsessed with the idea of improving himself and wants to grow and excel in it🚀. -->
 <br>
-Linux Enthusiast | Android Developer(in progress) | JavaScript is ♥️♥️ | KDE is ♥️♥️
+Linux Enthusiast || Android Developer(in progress) || JavaScript is ♥️♥️ || KDE is ♥️♥️
 <br/>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
@@ -19,18 +19,19 @@ Linux Enthusiast | Android Developer(in progress) | JavaScript is ♥️♥️ |
 <!--  👨 Open Source Contributor-->
 - 📫 How to reach me: ujjawalmauryaum@gmail.com
 
+<a href="https://instagram.com/1amujjawal">
+  <img align="left" alt="Ujjawal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 <a href="https://twitter.com/ujjawalmaurya2">
   <img align="left" alt="Ujjawal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ujjawal-maurya-6b70b8177/">
   <img align="left" alt="Ujjawal's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/theaizwal">
-  <img align="left" alt="Ujjawal's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<!-- <a href="https://t.me/theaizwal">
+  <img align="left" alt="Ujjawal's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /> -->
 </a>
-<a href="https://instagram.com/1amujjawal">
-  <img align="left" alt="Ujjawal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+
 <br><br>
 
 **<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> Languages and Tools:**  
