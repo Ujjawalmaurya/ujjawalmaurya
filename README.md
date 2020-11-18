@@ -15,7 +15,7 @@ Linux Enthusiast | Android Developer(in progress) | JavaScript is ♥️♥️ |
 - 💬 Ask me about anything, I am happy to help
 <!-- 👨🏽‍💼 Active participant in Competitive Programming competitions-->
 <!-- - 🤔 I’m looking for help with Data Structures and Algorithms and State Management -->
-- ⚙️ I use daily: `.dart`, `.java`, `.js`, `.fig`, `.xd`
+- ⚙️ I use daily: `.dart`, `.js`, `.fig`, `.xd`
 <!--  👨 Open Source Contributor-->
 - 📫 How to reach me: ujjawalmauryaum@gmail.com
 
