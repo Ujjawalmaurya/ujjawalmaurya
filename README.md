@@ -2,7 +2,7 @@
 
 <br />
 
-I am a regular CSE Student, who is passionate about technologies💻. <!-- and obsessed with the idea of improving himself and wants to grow and excel in it🚀. -->
+I am a CSE Student, who is passionate about technologies💻. <!-- and obsessed with the idea of improving himself and wants to grow and excel in it🚀. -->
 <br>
 Linux Enthusiast || Android Developer(in progress) || JavaScript is ♥️♥️ || KDE is ♥️♥️
 <br/>
@@ -28,8 +28,8 @@ Linux Enthusiast || Android Developer(in progress) || JavaScript is ♥️♥️
 <a href="https://www.linkedin.com/in/ujjawal-maurya-6b70b8177/">
   <img align="left" alt="Ujjawal's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<!-- <a href="https://t.me/theaizwal">
-  <img align="left" alt="Ujjawal's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /> -->
+ <a href="https://t.me/theaizwal">
+  <img align="left" alt="Ujjawal's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
 <br><br>
