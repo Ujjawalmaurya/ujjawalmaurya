@@ -4,7 +4,7 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+<!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" /> -->
 
 I am a CSE Student, who is passionate about technologies💻. <!-- and obsessed with the idea of improving himself and wants to grow and excel in it🚀. -->
 <br>
