@@ -1,5 +1,7 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello there! I'm Ujjawal<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
 
+<a href="https://app.daily.dev/ujjawalmaurya"><img src="https://api.daily.dev/devcards/56155e153f5f447fa62875405a62297e.png?r=apu" align='right' width="400" alt="Ujjawal Maurya's Dev Card"/></a>
+
 <br />
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
