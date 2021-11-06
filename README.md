@@ -10,7 +10,7 @@
 
 I am a CSE Student, who is passionate about technologies💻. <!-- and obsessed with the idea of improving himself and wants to grow and excel in it🚀. -->
 <br>
-Linux Enthusiast || Android Developer(in progress) || JavaScript is ♥️♥️ || KDE is ♥️♥️
+Linux Enthusiast || Android Developer || JavaScript is ♥️♥️ || KDE is ♥️♥️
 <br/>
 
   
