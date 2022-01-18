@@ -1,25 +1,23 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello there! I'm Ujjawal<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
 
-<!-- <a href="https://app.daily.dev/ujjawalmaurya"><img src="https://api.daily.dev/devcards/56155e153f5f447fa62875405a62297e.png?r=apu" align='right' width="400" alt="Ujjawal Maurya's Dev Card"/></a> -->
-
-<!-- <a href="https://app.daily.dev/ujjawalmaurya"><img src="https://api.daily.dev/devcards/56155e153f5f447fa62875405a62297e.png?r=a46" width="400" alt="Ujjawal Maurya's Dev Card"/></a> -->
 
 <br />
 
-<!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" /> -->
+<img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 
-I am a CSE Student, who is passionate about technologies💻. <!-- and obsessed with the idea of improving himself and wants to grow and excel in it🚀. -->
+I am a CSE Student, who is passionate about technologies💻 and obsessed with the idea of improving himself and wants to grow and excel in it🚀.
 <br>
-Linux Enthusiast || Android Developer || JavaScript is ♥️♥️ || KDE is ♥️♥️
+<!-- Linux Enthusiast || Android Developer || JavaScript is ♥️♥️ || KDE is ♥️♥️ -->
 <br/>
 
   
 **Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently learning State Management
+<!-- - 👨🏽‍💻 I’m currently pursuing my Bachelor's degree in Computer Science. -->
+<!-- - 👨🏽‍💻 I’m currently learning State Management -->
+- 👨🏽‍💻 I’m currently learning How-to-Learn
 - 💬 Ask me about anything, I am happy to help
 <!-- 👨🏽‍💼 Active participant in Competitive Programming competitions-->
-<!-- - 🤔 I’m looking for help with Data Structures and Algorithms and State Management -->
+- 🤔 I’m looking for help with State Management
 - ⚙️ I use daily: `.dart`, `.js`, `.fig`, `.xd`
 <!--  👨 Open Source Contributor-->
 - 📫 How to reach me: ujjawalmauryaum@gmail.com
