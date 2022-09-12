@@ -2,23 +2,21 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjawalmaurya&label=Profile%20views&color=0e75b6&style=flat" alt="ujjawalmaurya" /> </p> -->
 
-<br />
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
-
+<br />
 I am a CSE Student, who is passionate about technologies💻 and obsessed with the idea of improving himself and wants to grow and excel in it🚀.
+
 <br>
 <!-- Linux Enthusiast || Android Developer || JavaScript is ♥️♥️ || KDE is ♥️♥️ -->
 <br/>
 
-  
 **Talking about Personal Stuffs:**
 <!-- - 👨🏽‍💻 I’m currently pursuing my Bachelor's degree in Computer Science. -->
-<!-- - 👨🏽‍💻 I’m currently learning State Management -->
-- 👨🏽‍💻 I’m currently learning How-to-Learn
+<!-- - 👨🏽‍💻 I’m currently learning JS libraries -->
 - 💬 Ask me about anything, I am happy to help
 <!-- 👨🏽‍💼 Active participant in Competitive Programming competitions-->
-- 🤔 I’m looking for help with State Management
+<!-- - 🤔 I’m looking for help with  -->
 - ⚙️ I use daily: `.dart`, `.js`, `.fig`, `.xd`
 <!--  👨 Open Source Contributor-->
 - 📫 How to reach me: ujjawalmauryaum@gmail.com
@@ -45,4 +43,5 @@ I am a CSE Student, who is passionate about technologies💻 and obsessed with t
 <img src="https://random-memer.herokuapp.com/" width="512px"/>-->
 
 ---
+<!-- Visitor count -->
 [![](https://visitcount.itsvg.in/api?id=UjjawalMaurya&icon=2&color=6)](https://visitcount.itsvg.in)
