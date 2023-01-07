@@ -15,7 +15,7 @@ I am a CSE Student, who is passionate about technologies💻 and obsessed with t
 - 🤔 I’m looking for help with AppWrite
 - ⚙️ I use daily: `.dart`, `.js`, `.fig`
 <!--  👨 Open Source Contributor-->
-- 📫 How to reach me: ujjawalmauryaum@gmail.com
+- 📫 How to reach me: me@ujjawal.codes
 
 
 
