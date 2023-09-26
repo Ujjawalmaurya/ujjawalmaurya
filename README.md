@@ -31,6 +31,7 @@ Strong in design and integration with intuitive problem-solving skills. Proficie
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ujjawalmauryaum)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12053457/ujjawal-maurya)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/1amUjjawal) 
+[![Peerlist](https://github-readme-badge.peerlist.io/api/ujjawalmaurya?style=plastic)](https://peerlist.io/ujjawalmaurya)
 
 # 💻Tech Stack
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
