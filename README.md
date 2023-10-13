@@ -5,7 +5,7 @@
 <a href="https://app.daily.dev/ujjawalmaurya"><img align="right" src="https://api.daily.dev/devcards/56155e153f5f447fa62875405a62297e.png?r=x7a" width="400" alt="Ujjawal Maurya's Dev Card"/></a>
 <br />
 <!-- I am a CSE Student, who is passionate about technologies💻 and obsessed with the idea of improving himself and wants to grow and excel in it🚀. -->
-Strong in design and integration with intuitive problem-solving skills. Proficient in JAVASCRIPT, GO, SQL and DART. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions.
+Skilled in design and problem-solving, I excel at integrating ideas seamlessly. I'm proficient in JavaScript, Go, SQL, and Dart. My passion lies in bringing new projects to life. I can turn business needs into technical solutions.
 
 [![](https://visitcount.itsvg.in/api?id=UjjawalMaurya&icon=2&color=6)](https://visitcount.itsvg.in)
 
