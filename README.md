@@ -30,7 +30,7 @@ Passionate about exploring and sharing tech insights. Currently diving into the 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/1amujjawal)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ujjawalmauryaum)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12053457/ujjawal-maurya)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/1amUjjawal)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/monsterthatlies)
 [![Peerlist](https://github-readme-badge.peerlist.io/api/ujjawalmaurya?style=plastic)](https://peerlist.io/ujjawalmaurya)
 
 ![](./assets/lets-catch.gif)
