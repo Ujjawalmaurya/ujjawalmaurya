@@ -1,28 +1,13 @@
-<!-- <img align="right" alt="GIF" src="./assets/js-is-the-boss.gif" /> -->
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px"> Hey there! I’m Ujjawal
+💡 A curious mind exploring the evolving world of technology.
 
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px"> Hello there! I'm Ujjawal <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="95px">
+I enjoy working at the intersection of creative problem‑solving and modern computing — from tinkering with systems to experimenting with new programming paradigms. My journey is guided by curiosity, adaptability, and a drive to turn ideas into working solutions.
 
-<br />
+🐧 Linux keeps me grounded. New languages keep me challenged. Emerging technologies keep me inspired.
 
-<img align="right" alt="GIF" src="./assets/lets-do-it.gif" height="400px" width="400px" />
+Lately, I’ve been exploring how intelligent systems, scalable infrastructure, and modern development practices can come together to build meaningful products. Always learning, always experimenting, always open to exchanging ideas.
 
-Passionate about exploring and sharing tech insights. Currently diving into the world of Computer Science. Love crafting useful projects with existing knowledge. In awe of the tech industry's dynamic landscape. Linux enthusiast, distro hopper, and fascinated by Android development. 🌐
-
-- 🎓 B.Tech in Computer Science and Engineering student.
-- 🚀 Tech Explorer | 💡 Project Enthusiast.
-- 👨‍💻 Passionate about the ever-evolving tech industry.
-- 🐧 Linux lover, distro hopper and Android enthusiast.
-- 🛠️ Building cool projects with existing knowledge.
-
-[![](https://visitcount.itsvg.in/api?id=UjjawalMaurya&icon=2&color=6)](https://visitcount.itsvg.in)
-
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently learning Go
-- 💬 Ask me about anything, I am happy to help
-- 🤔 I’m looking for help with AppWrite
-- 📫 How to reach me: ujjawalmauryaum@gmail.com
-<!-- - ⚙️ I use daily: `.dart`, `.js`, `.fig` -->
+📫 Let’s connect: ujjawalmauryaum@gmail.com
 
 ## 🌐 Socials
 
