@@ -21,18 +21,35 @@
 
 ---
 
-<br />
+<div align="center"> 
 
 ### 🛠️ The Workbench
 
-| <div align="center"><img src="./assets/parrot-coding.gif" width="50px" /><br/>**Languages**</div> | <div align="center"><img src="./assets/parrot-db.gif" width="50px" /><br/>**Frameworks**</div> | <div align="center"><img src="./assets/parrot-building.gif" width="50px" /><br/>**Infrastructure**</div> |
-| :---: | :---: | :---: |
-| Dart | Flutter | Linux |
-| JavaScript | React | Docker |
-| Go | Firebase | AWS |
-| SQL | Node.js | Raspberry Pi |
+<br/>
 
-<br />
+<img src="./assets/parrot-coding.gif" width="45px" />
+<br/>
+<b>Writing</b>
+<br/>
+Dart • JavaScript • Go • SQL
+
+<br/>
+
+<img src="./assets/parrot-db.gif" width="45px" />
+<br/>
+<b>Building</b>
+<br/>
+Flutter • React • Firebase • Node.js
+
+<br/>
+
+<img src="./assets/parrot-building.gif" width="45px" />
+<br/>
+<b>Shipping</b>
+<br/>
+Linux • Docker • AWS • Raspberry Pi
+
+</div>
 
 ---
 
@@ -40,8 +57,11 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=UjjawalMaurya&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
+  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjawalMaurya&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
 </div>
+
+![](https://nirzak-streak-stats.vercel.app/?user=Ujjawalmaurya&theme=transparent&hide_border=true)
 
 <br />
 
