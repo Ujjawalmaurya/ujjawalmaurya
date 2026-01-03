@@ -53,15 +53,15 @@ Linux • Docker • AWS • Raspberry Pi
 
 ---
 
-### 📈 The Stats
-
 <div align="center">
+
+### 📈 The Stats
   <img src="https://github-readme-stats.vercel.app/api?username=UjjawalMaurya&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjawalMaurya&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
+  <br />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Ujjawalmaurya&theme=transparent&hide_border=true" />
 </div>
-
-![](https://nirzak-streak-stats.vercel.app/?user=Ujjawalmaurya&theme=transparent&hide_border=true)
 
 <br />
 
