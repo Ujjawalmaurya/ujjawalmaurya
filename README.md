@@ -3,12 +3,12 @@
     <td width="62%" valign="middle">
       <h1>Hey there, I'm Ujjawal 👋</h1>
       <a href="https://github.com/Ujjawalmaurya">
-        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=58A6FF&width=480&lines=Software+Developer;Python+%E2%80%A2+Go+%E2%80%A2+Flutter+%E2%80%A2+FastAPI;Local+LLMs+%E2%80%A2+RAG+%E2%80%A2+LangGraph;Building+apps%2C+breaking+systems" alt="Typing Banner" />
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=58A6FF&width=480&lines=Software+Developer;Applied+AI+%26+Systems+Engineering;Building+with+Python%2C+Go%2C+FastAPI+%26+Flutter;Exploring+LLMs%2C+RAG+%26+Local+Inference" alt="Typing Banner" />
       </a>
       <br /><br />
       <p>
-        <b>Software developer</b> working with <b>Python</b>, <b>Go</b>, <b>Dart / Flutter</b>, and <b>local AI</b>.<br />
-        <i>"I build apps, break systems, and learn from both."</i>
+        <b>Software Developer</b> focused on <b>Applied AI</b>, <b>Distributed Systems</b> and <b>High-Performance Apps</b>.<br />
+        Shipping production code with <b>Python</b>, <b>Go</b> and <b>Flutter</b> while building <b>grounded RAG pipelines</b> and <b>local model workflows</b>.
       </p>
       <p>
         <a href="https://linkedin.com/in/ujjawalmauryaum"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -28,24 +28,24 @@
 ╭─ ujjawal@archbox ~
 ╰─$ fastfetch --developer
   OS        :: Arch Linux x86_64
-  Role      :: Software Developer (Systems, Mobile & Applied AI)
-  Core      :: Python • Go • Dart • JavaScript • FastAPI • Flutter • Node.js
-  AI / ML   :: LangGraph • Ollama • Local LLMs • Chroma • FAISS • YOLOv8
-  Focus     :: Fast local inference, concurrency, clean state management
+  Role      :: Software Developer & Applied AI Explorer
+  Core      :: Python • Dart • Go • JavaScript • FastAPI • Flutter • Node.js
+  AI / ML   :: LangGraph • LangChain • Ollama • RAG • Vector DBs • YOLOv8
+  Focus     :: Grounded AI workflows, resilient systems, high-FPS applications
 ```
 
 <br />
 
 ### 🏆 Key Milestone
 
-> **1st Prize — HyperSpace Hackathon 2026** (Team HackSquad)  
-> Built **AI Scout**: Automated agricultural anomaly detection using **YOLOv8** and **multispectral NDVI** over drone imagery.
+> **1st Prize Winner &mdash; HyperSpace Hackathon 2026 (Team HackSquad)**  
+> Built **AI Scout**: Automated crop anomaly detection and field analytics combining **YOLOv8** with **multispectral NDVI computation** over aerial drone imagery.
 
 <br />
 
 <div align="center">
 
-### 🛠️ The Toolbelt
+### 🛠️ Core Technologies &amp; Toolbelt
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,dart,flutter,go,ts,js,fastapi,nodejs,express,postgres,supabase,mongodb,docker,linux,git,github,postman&perline=9&theme=dark" alt="Skill Matrix" />
@@ -53,14 +53,14 @@
 
 <br /><br />
 
-| Area | Stack & Tools |
+| Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | **Python** &bull; **Dart** &bull; **Go** &bull; **JavaScript** &bull; **TypeScript** |
-| **Backends & APIs** | **FastAPI** &bull; **Node.js** &bull; **Express** &bull; **REST APIs** |
+| **Core Languages** | **Python** &bull; **Dart** &bull; **Go** &bull; **JavaScript** &bull; **TypeScript** |
+| **Backend & Services** | **FastAPI** &bull; **Node.js** &bull; **Express** &bull; **REST APIs** |
 | **Mobile & Frontend** | **Flutter** &bull; **React** |
 | **Applied AI & ML** | **LangGraph** &bull; **LangChain** &bull; **Ollama** &bull; **RAG** &bull; **YOLOv8** &bull; **Gemini / OpenAI / Claude** |
-| **Databases & Vectors** | **PostgreSQL** &bull; **Supabase** &bull; **MongoDB** &bull; **Chroma** &bull; **FAISS** &bull; **Qdrant** |
-| **Systems & Ops** | **Linux** (Daily Driver) &bull; **Docker** &bull; **Git** &bull; **Postman** |
+| **Databases & Vector Stores** | **PostgreSQL** &bull; **Supabase** &bull; **MongoDB** &bull; **Chroma** &bull; **FAISS** &bull; **Qdrant** |
+| **Platforms & Infrastructure** | **Linux** (Daily Driver) &bull; **Docker** &bull; **Git** &bull; **Postman** |
 
 </div>
 
@@ -90,17 +90,17 @@
 <table>
   <tr>
     <td width="35%" align="center" valign="middle">
-      <img src="./assets/co-working.gif" width="220px" alt="Co-working" style="border-radius: 12px;" />
+      <img src="./assets/co-working.gif" width="220px" alt="Co-working & Collaboration" style="border-radius: 12px;" />
     </td>
     <td width="65%" valign="top">
-      <h3>🤝 Let's Build Together</h3>
+      <h3>🤝 Let's Collaborate &amp; Build</h3>
       <p>
-        Always up for pairing on <b>local AI</b>, <b>backend systems</b>, or <b>open-source tools</b>.
+        Open for <b>applied AI engineering</b>, <b>distributed systems</b>, and <b>impactful software</b>.
       </p>
       <ul>
-        <li>💬 <b>Talk to me about:</b> <b>RAG pipelines</b>, <b>LangGraph</b>, <b>FastAPI</b>, <b>Go concurrency</b>, or <b>Flutter internals</b></li>
-        <li>⚡ <b>Currently tinkering:</b> <b>On-device models</b>, <b>Ollama</b>, and <b>edge inference</b></li>
-        <li>📬 <b>Ping:</b> Catch me on <a href="https://linkedin.com/in/ujjawalmauryaum"><b>LinkedIn</b></a> or ping via <a href="mailto:ujjawalmauryaum@gmail.com"><b>email</b></a></li>
+        <li>💬 <b>Topics:</b> <b>RAG Architectures</b>, <b>LangGraph Workflows</b>, <b>FastAPI Backends</b>, <b>Flutter Internals</b></li>
+        <li>🎯 <b>Current Focus:</b> <b>Local AI Inference</b> &amp; <b>Autonomous Tool Workflows</b></li>
+        <li>📬 <b>Direct Ping:</b> Connect via <a href="https://linkedin.com/in/ujjawalmauryaum"><b>LinkedIn</b></a> or message at <a href="mailto:ujjawalmauryaum@gmail.com"><b>ujjawalmauryaum@gmail.com</b></a></li>
       </ul>
     </td>
   </tr>
