@@ -4,8 +4,10 @@
 
 **Software Engineer &nbsp;·&nbsp; AI/GenAI &nbsp;·&nbsp; Backend &nbsp;·&nbsp; Mobile**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-ujjawal.xyz-black?style=flat-square&logo=vercel&logoColor=white)](https://ujjawal.xyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ujjawalmauryaum)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ujjawalmauryaum@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/monsterthatlies)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12053457/ujjawal-maurya)
 
 </div>
@@ -15,6 +17,17 @@
 Building AI-integrated applications and backend systems. I work across the full product stack — from FastAPI services and RAG pipelines to mobile apps and local inference runtimes.
 
 B.Tech CS &nbsp;·&nbsp; 2+ years of Flutter/mobile experience &nbsp;·&nbsp; currently focused on applied GenAI and backend engineering.
+
+---
+
+## ✦ Highlights
+
+| | |
+| :--- | :--- |
+| 🥇 **HyperSpace Hackathon 2026** | 1st Prize — AI Scout, precision agriculture platform (YOLOv8 + NDVI + drone imagery) |
+| 📵 **On-Device AI** | Built fully offline Android LLM runtime with Vulkan GPU acceleration and OOM-safe context management |
+| ⚖️ **Live RAG App** | LeagalAI — deployed RAG pipeline for legal document analysis ([leagal.streamlit.app](https://leagal.streamlit.app/)) |
+| 🌐 **Browser-Side Inference** | WebLLM — LLMs running locally in the browser via WebGPU with no server involvement |
 
 ---
 
@@ -104,3 +117,19 @@ P2P cab system with a blockchain escrow backend (Hardhat/Solidity) and a Flutter
 | **Data** | PostgreSQL · Supabase · MongoDB · vector databases |
 | **Mobile / Frontend** | Flutter · Dart · React · JavaScript · TypeScript |
 | **Infrastructure** | Docker · Linux (daily driver) · Git |
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ujjawalmaurya&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&hide=contribs&include_all_commits=true" height="150" alt="GitHub Stats" />
+
+</div>
+
+---
+
+<div align="center">
+
+**ujjawal.xyz** &nbsp;·&nbsp; [linkedin.com/in/ujjawalmauryaum](https://linkedin.com/in/ujjawalmauryaum) &nbsp;·&nbsp; ujjawalmauryaum@gmail.com
+
+</div>
