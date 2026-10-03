@@ -1,113 +1,106 @@
-<table>
-  <tr>
-    <td width="62%" valign="middle">
-      <h1>Hey there, I'm Ujjawal 👋</h1>
-      <a href="https://github.com/Ujjawalmaurya">
-        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=58A6FF&width=480&lines=Software+Developer;Applied+AI+%26+Systems+Engineering;Building+with+Python%2C+Go%2C+FastAPI+%26+Flutter;Exploring+LLMs%2C+RAG+%26+Local+Inference" alt="Typing Banner" />
-      </a>
-      <br /><br />
-      <p>
-        <b>Software Developer</b> focused on <b>Applied AI</b>, <b>Distributed Systems</b> and <b>High-Performance Apps</b>.<br />
-        Shipping production code with <b>Python</b>, <b>Go</b> and <b>Flutter</b> while building <b>grounded RAG pipelines</b> and <b>local model workflows</b>.
-      </p>
-      <p>
-        <a href="https://linkedin.com/in/ujjawalmauryaum"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-        <a href="https://github.com/Ujjawalmaurya"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-        <a href="mailto:ujjawalmauryaum@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-        <a href="https://twitter.com/monsterthatlies"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter / X" /></a>
-        <a href="https://stackoverflow.com/users/12053457/ujjawal-maurya"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=flat-square&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
-      </p>
-    </td>
-    <td width="38%" align="center" valign="middle">
-      <img src="./assets/busy-work.gif" width="280px" alt="Busy Working" style="border-radius: 12px;" />
-    </td>
-  </tr>
-</table>
+## Ujjawal Maurya
 
-```text
-╭─ ujjawal@archbox ~
-╰─$ fastfetch --developer
-  OS        :: Arch Linux x86_64
-  Role      :: Software Developer & Applied AI Explorer
-  Core      :: Python • Dart • Go • JavaScript • FastAPI • Flutter • Node.js
-  AI / ML   :: LangGraph • LangChain • Ollama • RAG • Vector DBs • YOLOv8
-  Focus     :: Grounded AI workflows, resilient systems, high-FPS applications
-```
+Software engineer building AI-integrated applications and backend systems. I work across the full product stack — from FastAPI services and RAG pipelines to mobile apps and local inference runtimes.
 
-<br />
+B.Tech CS · 2+ years of Flutter/mobile experience · currently focused on applied GenAI and backend engineering.
 
-### 🏆 Key Milestone
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ujjawalmauryaum)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ujjawalmaurya)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ujjawalmauryaum@gmail.com)
 
-> **1st Prize Winner &mdash; HyperSpace Hackathon 2026 (Team HackSquad)**  
-> Built **AI Scout**: Automated crop anomaly detection and field analytics combining **YOLOv8** with **multispectral NDVI computation** over aerial drone imagery.
+---
 
-<br />
+## Current focus
 
-<div align="center">
+Building systems where LLMs are an engineering component rather than the product itself — RAG pipelines with source attribution and chunk-level citation, LLM orchestration across multiple providers (Gemini, OpenAI, local Ollama models), and AI agents that interact with real tools and APIs.
 
-### 🛠️ Core Technologies &amp; Toolbelt
+On the backend side: FastAPI services, PostgreSQL/Supabase, vector stores (Chroma, FAISS, Qdrant), and Docker-based deployment. On the application side: Flutter for mobile and React for web interfaces.
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,dart,flutter,go,ts,js,fastapi,nodejs,express,postgres,supabase,mongodb,docker,linux,git,github,postman&perline=9&theme=dark" alt="Skill Matrix" />
-  </a>
+The common thread is keeping inference grounded — avoiding hallucination through retrieval, proper context management, and memory-safe design.
 
-<br /><br />
+---
 
-| Category | Technologies & Tools |
+## Selected work
+
+### [HackSquad-YUKTI — AI Scout](https://github.com/Ujjawalmaurya/HackSquad-YUKTI) · 🥇 1st Prize, HyperSpace Hackathon 2026
+
+Precision agriculture platform combining YOLOv8 anomaly detection with NDVI computation over aerial drone imagery. Farmers upload drone footage; the backend processes multispectral image channels to compute vegetation health indices and flags disease regions using object detection.
+
+Key engineering: FastAPI inference service + YOLOv8 + NDVI pipeline + GIS visualisation layer + role-based access control. Docker Compose for the full stack.
+
+`Python` · `FastAPI` · `YOLOv8` · `Computer Vision` · `Node.js` · `Docker`
+
+---
+
+### [HyperBrain](https://github.com/Ujjawalmaurya/HyperBrain)
+
+The backend AI service extracted from the agriculture platform. A standalone FastAPI service exposing REST endpoints for NDVI calculation and YOLOv8-based agricultural anomaly detection. Built to be independently deployable and usable by any frontend.
+
+`Python` · `FastAPI` · `YOLOv8` · `REST API`
+
+---
+
+### [Off-Grid-Chat](https://github.com/Ujjawalmaurya/Off-Grid-Chat)
+
+Offline Android AI chat app built with Flutter + llama.cpp via FFI. Runs quantised GGUF models (SmolLM2, Qwen 2.5, Llama 3.2, Phi-3) directly on device with Vulkan GPU acceleration. No internet, no API keys, no telemetry.
+
+Interesting engineering: runtime Vulkan capability detection with graceful CPU fallback, a sliding-window context buffer (6 turns / 2,048 tokens) to prevent OOM on 4–6 GB devices, and tuned sampling parameters specifically for small-model stability.
+
+`Flutter` · `Dart` · `llama.cpp` · `FFI` · `Vulkan` · `Local Inference`
+
+---
+
+### [WebLLM](https://github.com/Ujjawalmaurya/WebLLM)
+
+Web application that runs LLMs locally inside the browser via WebGPU — no server, no API key, no data leaving the device. Model weights are downloaded and cached in browser storage on first run. Inference runs in a Web Worker to keep the UI responsive, with real-time token streaming into the chat.
+
+Supports Llama 3.2, Gemma 3, Qwen 2.5, Phi 3.5, SmolLM2, Ministral, OLMo 2 — picking small variants optimised for WebGPU memory limits.
+
+`JavaScript` · `WebGPU` · `Web Workers` · `Local Inference`
+
+---
+
+### [LeagalAI](https://github.com/Ujjawalmaurya/LeagalAI) · [live](https://leagal.streamlit.app/)
+
+RAG application for legal document analysis. Upload any contract or agreement; it extracts risky clauses (auto-renewal, silent data sharing, fee escalations) and answers questions in plain language with page and section citations.
+
+Stack: LangGraph for the RAG workflow, Gemini for embeddings and generation, Chroma as the vector store, Streamlit for the interface. Deployed and live.
+
+`Python` · `LangGraph` · `Gemini` · `Chroma` · `RAG` · `Streamlit`
+
+---
+
+### [smaran](https://github.com/Ujjawalmaurya/smaran)
+
+Flutter library/SDK for bringing RAG capabilities into mobile apps. The goal is on-device retrieval pipelines for mobile — letting a Flutter application query a local vector store and feed relevant context to an LLM without a server round-trip.
+
+`Flutter` · `Dart` · `RAG` · `Mobile AI`
+
+---
+
+### [PeerRide + CabContract](https://github.com/Ujjawalmaurya/PeerRide)
+
+P2P cab system with a blockchain escrow backend (Hardhat/Solidity) and a Flutter mobile client for both rider and driver flows. Covers on-chain wallet balance, ride acceptance, and payment settlement.
+
+`Flutter` · `Solidity` · `Hardhat` · `Blockchain` · `Dart`
+
+---
+
+## Engineering areas
+
+| Domain | Technologies |
 | :--- | :--- |
-| **Core Languages** | **Python** &bull; **Dart** &bull; **Go** &bull; **JavaScript** &bull; **TypeScript** |
-| **Backend & Services** | **FastAPI** &bull; **Node.js** &bull; **Express** &bull; **REST APIs** |
-| **Mobile & Frontend** | **Flutter** &bull; **React** |
-| **Applied AI & ML** | **LangGraph** &bull; **LangChain** &bull; **Ollama** &bull; **RAG** &bull; **YOLOv8** &bull; **Gemini / OpenAI / Claude** |
-| **Databases & Vector Stores** | **PostgreSQL** &bull; **Supabase** &bull; **MongoDB** &bull; **Chroma** &bull; **FAISS** &bull; **Qdrant** |
-| **Platforms & Infrastructure** | **Linux** (Daily Driver) &bull; **Docker** &bull; **Git** &bull; **Postman** |
+| **AI / GenAI** | LLMs · RAG · LangGraph · LangChain · Ollama · local inference (llama.cpp, WebGPU) · Chroma · FAISS · Qdrant · Gemini · OpenAI |
+| **Computer Vision** | YOLOv8 · NDVI computation · image channel analysis |
+| **Backend** | Python · FastAPI · Node.js · Go · REST · WebSockets |
+| **Data** | PostgreSQL · Supabase · MongoDB · vector databases |
+| **Mobile / Frontend** | Flutter · Dart · React · JavaScript · TypeScript |
+| **Infrastructure** | Docker · Linux (daily driver) · Git |
 
-</div>
+---
 
-<br />
+## Contact
 
-<div align="center">
-
-### 📊 GitHub Telemetry
-
-  <a href="https://github.com/Ujjawalmaurya">
-    <img src="https://github-stats-extended.vercel.app/api?username=Ujjawalmaurya&theme=github_dark&show_icons=true&hide_border=false&border_radius=8" height="175" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Ujjawalmaurya">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ujjawalmaurya&theme=github_dark&layout=compact&hide_border=false&border_radius=8" height="175" alt="Top Languages" />
-  </a>
-
-  <br /><br />
-
-  <a href="https://github.com/Ujjawalmaurya">
-    <img src="https://streak-stats.demolab.com/?user=Ujjawalmaurya&theme=github-dark-dimmed&hide_border=false&border_radius=8" alt="GitHub Streak" />
-  </a>
-
-</div>
-
-<br />
-
-<table>
-  <tr>
-    <td width="35%" align="center" valign="middle">
-      <img src="./assets/co-working.gif" width="220px" alt="Co-working & Collaboration" style="border-radius: 12px;" />
-    </td>
-    <td width="65%" valign="top">
-      <h3>🤝 Let's Collaborate &amp; Build</h3>
-      <p>
-        Open for <b>applied AI engineering</b>, <b>distributed systems</b>, and <b>impactful software</b>.
-      </p>
-      <ul>
-        <li>💬 <b>Topics:</b> <b>RAG Architectures</b>, <b>LangGraph Workflows</b>, <b>FastAPI Backends</b>, <b>Flutter Internals</b></li>
-        <li>🎯 <b>Current Focus:</b> <b>Local AI Inference</b> &amp; <b>Autonomous Tool Workflows</b></li>
-        <li>📬 <b>Direct Ping:</b> Connect via <a href="https://linkedin.com/in/ujjawalmauryaum"><b>LinkedIn</b></a> or message at <a href="mailto:ujjawalmauryaum@gmail.com"><b>ujjawalmauryaum@gmail.com</b></a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<div align="center">
-  <img src="./assets/lets-catch.gif" width="480" alt="Let's Catch Up" />
-</div>
+**LinkedIn**: [linkedin.com/in/ujjawalmauryaum](https://linkedin.com/in/ujjawalmauryaum)  
+**Email**: ujjawalmauryaum@gmail.com  
+**Stack Overflow**: [ujjawal-maurya](https://stackoverflow.com/users/12053457/ujjawal-maurya)
